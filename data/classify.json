@@ -1,0 +1,610 @@
+{
+	"recommend": [{
+		"Id": 10456,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "吉国武",
+		"Path": "0->10366->10456",
+		"SortNum": 1,
+		"FullName": "推荐->吉国武",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "吉国武",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://i1.vanclimg.com/cms/20180411/11aaaaa.jpg",
+		"Version": 1
+	}, {
+		"Id": 10499,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "T恤",
+		"Path": "0->10366->10499",
+		"SortNum": 2,
+		"FullName": "推荐->T恤",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "T恤",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://i3.vanclimg.com/cms/20180411/22ddddd.jpg",
+		"Version": 1
+	}, {
+		"Id": 10459,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "休闲衬衫",
+		"Path": "0->10366->10459",
+		"SortNum": 3,
+		"FullName": "推荐->休闲衬衫",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "休闲衬衫",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://i.vanclimg.com/640/q80/product/6/3/7/6377971/big/6377971-1j201709260833241850.jpg",
+		"Version": 1
+	}, {
+		"Id": 10461,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "卫衣",
+		"Path": "0->10366->10461",
+		"SortNum": 4,
+		"FullName": "推荐->卫衣",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "卫衣",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p2.vanclimg.com/product/6/3/7/6378353/mid/6378353-1j201709090039435468.jpg",
+		"Version": 1
+	}, {
+		"Id": 10458,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "水柔棉",
+		"Path": "0->10366->10458",
+		"SortNum": 5,
+		"FullName": "推荐->水柔棉",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "水柔棉",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p3.vanclimg.com/product/6/3/7/6375163/mid/6375163-1j201709151925189721.jpg",
+		"Version": 1
+	}, {
+		"Id": 10457,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "牛津纺",
+		"Path": "0->10366->10457",
+		"SortNum": 6,
+		"FullName": "推荐->牛津纺",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "牛津纺",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://i.vanclimg.com/640/q80/product/6/3/7/6377955/big/6377955-1j201709181637082123.jpg",
+		"Version": 1
+	}, {
+		"Id": 10490,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "夹克",
+		"Path": "0->10366->10490",
+		"SortNum": 7,
+		"FullName": "推荐->夹克",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "夹克",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p4.vanclimg.com/product/6/3/7/6378026/mid/6378026-1j201710121408227822.jpg",
+		"Version": 1
+	}, {
+		"Id": 10486,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "针织衫",
+		"Path": "0->10366->10486",
+		"SortNum": 8,
+		"FullName": "推荐->针织衫",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "针织衫",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p5.vanclimg.com/product/6/3/7/6378261/mid/6378261-1j201709211359324069.jpg",
+		"Version": 1
+	}, {
+		"Id": 10487,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "外套",
+		"Path": "0->10366->10487",
+		"SortNum": 9,
+		"FullName": "推荐->外套",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "外套",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p5.vanclimg.com/product/6/3/7/6375651/mid/6375651-1j201709151926288158.jpg",
+		"Version": 1
+	}, {
+		"Id": 10480,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "童装",
+		"Path": "0->10366->10480",
+		"SortNum": 10,
+		"FullName": "推荐->童装",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "童装",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p5.vanclimg.com/product/6/3/7/6378464/mid/6378464-1j201709221623443761.jpg",
+		"Version": 1
+	}, {
+		"Id": 10488,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "大衣",
+		"Path": "0->10366->10488",
+		"SortNum": 11,
+		"FullName": "推荐->大衣",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "大衣",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p1.vanclimg.com/product/6/3/7/6375440/mid/6375440-1j201709151926140815.jpg",
+		"Version": 1
+	}, {
+		"Id": 10494,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "棉服",
+		"Path": "0->10366->10494",
+		"SortNum": 12,
+		"FullName": "推荐->棉服",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "棉服",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p2.vanclimg.com/product/6/3/7/6378281/mid/6378281-1j201711031618496576.jpg",
+		"Version": 1
+	}, {
+		"Id": 10489,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "羽绒服",
+		"Path": "0->10366->10489",
+		"SortNum": 13,
+		"FullName": "推荐->羽绒服",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "羽绒服",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p1.vanclimg.com/product/6/3/7/6375431/mid/6375431-1j201710131712238133.jpg",
+		"Version": 1
+	}, {
+		"Id": 10462,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "休闲裤",
+		"Path": "0->10366->10462",
+		"SortNum": 14,
+		"FullName": "推荐->休闲裤",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "休闲裤",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p5.vanclimg.com/product/6/3/7/6375237/mid/6375237-1j201609181106554831.jpg",
+		"Version": 1
+	}, {
+		"Id": 10463,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "牛仔裤",
+		"Path": "0->10366->10463",
+		"SortNum": 15,
+		"FullName": "推荐->牛仔裤",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "牛仔裤",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p3.vanclimg.com/product/6/3/7/6375663/mid/6375663-1201702221659421316.jpg",
+		"Version": 1
+	}, {
+		"Id": 10465,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "帆布鞋",
+		"Path": "0->10366->10465",
+		"SortNum": 16,
+		"FullName": "推荐->帆布鞋",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "帆布鞋",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p5.vanclimg.com/product/6/3/7/6375881/mid/6375881-1j201702281503335949.jpg",
+		"Version": 1
+	}, {
+		"Id": 10466,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "复古跑",
+		"Path": "0->10366->10466",
+		"SortNum": 17,
+		"FullName": "推荐->复古跑",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "复古跑",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p1.vanclimg.com/product/6/3/7/6375869/mid/6375869-1j201703301445582286.jpg",
+		"Version": 1
+	}, {
+		"Id": 10495,
+		"ParentId": 10366,
+		"TypeLevel": "2",
+		"TypeName": "拖鞋",
+		"Path": "0->10366->10495",
+		"SortNum": 18,
+		"FullName": "推荐->拖鞋",
+		"CateID": "",
+		"Parameters": null,
+		"KeyWord": "拖鞋",
+		"Attributes": null,
+		"SortType": null,
+		"FilterQuery": "",
+		"IconName": "",
+		"Logo": "http://p4.vanclimg.com/product/6/3/7/6379070/mid/6379070-1j201710271718344293.jpg",
+		"Version": 1
+	}],
+	"man":[
+		{
+			"ID":1,
+			"url":"src/assets/images/42.jpg",
+			"title":"免烫衬衫"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/43.jpg",
+			"title":"休闲衬衫"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/58.jpg",
+			"title":"卫衣"
+		},
+		{
+			"ID":4,
+			"url":"src/assets/images/44.jpg",
+			"title":"T恤"
+		},
+		{
+			"ID":5,
+			"url":"src/assets/images/45.jpg",
+			"title":"POlO衫"
+		},
+		{
+			"ID":6,
+			"url":"src/assets/images/46.jpg",
+			"title":"短袖衬衫"
+		},
+		{
+			"ID":7,
+			"url":"src/assets/images/47.jpg",
+			"title":"水柔棉"
+		},
+		{
+			"ID":8,
+			"url":"src/assets/images/48.jpg",
+			"title":"麻衬衫"
+		},
+		{
+			"ID":9,
+			"url":"src/assets/images/49.jpg",
+			"title":"针织衫"
+		},
+		{
+			"ID":10,
+			"url":"src/assets/images/50.jpg",
+			"title":"外套"
+		},
+		{
+			"ID":11,
+			"url":"src/assets/images/51.jpg",
+			"title":"西服"
+		},
+		{
+			"ID":12,
+			"url":"src/assets/images/52.jpg",
+			"title":"大衣"
+		},
+		{
+			"ID":13,
+			"url":"src/assets/images/53.jpg",
+			"title":"皮肤衣"
+		},
+		{
+			"ID":14,
+			"url":"src/assets/images/54.jpg",
+			"title":"休闲裤"
+		},
+		{
+			"ID":15,
+			"url":"src/assets/images/55.jpg",
+			"title":"牛仔裤"
+		},
+		{
+			"ID":16,
+			"url":"src/assets/images/56.jpg",
+			"title":"针织裤"
+		},
+		{
+			"ID":17,
+			"url":"src/assets/images/57.jpg",
+			"title":"羽绒服"
+		}
+	],
+	"woman":[
+		{
+			"ID":1,
+			"url":"src/assets/images/59.jpg",
+			"title":"卫衣"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/70.jpg",
+			"title":"水柔棉"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/60.jpg",
+			"title":"T恤"
+		},
+		{
+			"ID":4,
+			"url":"src/assets/images/61.jpg",
+			"title":"休闲衬衫"
+		},
+		{
+			"ID":5,
+			"url":"src/assets/images/62.jpg",
+			"title":"麻衬衫"
+		},
+		{
+			"ID":6,
+			"url":"src/assets/images/63.jpg",
+			"title":"针织衫"
+		},
+		{
+			"ID":7,
+			"url":"src/assets/images/64.jpg",
+			"title":"外套"
+		},
+		{
+			"ID":8,
+			"url":"src/assets/images/65.jpg",
+			"title":"皮肤衣"
+		},
+		{
+			"ID":9,
+			"url":"src/assets/images/66.jpg",
+			"title":"运动速干"
+		},
+		{
+			"ID":10,
+			"url":"src/assets/images/67.jpg",
+			"title":"牛仔裤"
+		},
+		{
+			"ID":11,
+			"url":"src/assets/images/68.jpg",
+			"title":"针织裤"
+		},
+		{
+			"ID":12,
+			"url":"src/assets/images/69.jpg",
+			"title":"沙滩裤"
+		}
+	],
+	"manshoes":[
+		{
+			"ID":1,
+			"url":"src/assets/images/71.jpg",
+			"title":"帆布鞋"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/72.jpg",
+			"title":"休闲鞋"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/73.jpg",
+			"title":"复古跑"
+		},
+		{
+			"ID":4,
+			"url":"src/assets/images/74.jpg",
+			"title":"运动鞋"
+		}
+	],
+	"womanshoes":[
+		{
+			"ID":1,
+			"url":"src/assets/images/75.jpg",
+			"title":"帆布鞋"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/76.jpg",
+			"title":"复古跑"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/77.jpg",
+			"title":"休闲鞋"
+		}
+	],
+	"socks":[
+		{
+			"ID":1,
+			"url":"src/assets/images/78.jpg",
+			"title":"连裤袜"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/79.jpg",
+			"title":"打底裤"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/80.jpg",
+			"title":"棉袜"
+		}
+	],
+	"house":[
+		{
+			"ID":1,
+			"url":"src/assets/images/81.jpg",
+			"title":"床品"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/82.jpg",
+			"title":"床单"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/83.jpg",
+			"title":"被子"
+		},
+		{
+			"ID":4,
+			"url":"src/assets/images/84.jpg",
+			"title":"家居毯"
+		},
+		{
+			"ID":5,
+			"url":"src/assets/images/85.jpg",
+			"title":"枕头"
+		},
+		{
+			"ID":6,
+			"url":"src/assets/images/86.jpg",
+			"title":"围巾"
+		},
+		{
+			"ID":7,
+			"url":"src/assets/images/87.jpg",
+			"title":"背心"
+		},
+		{
+			"ID":8,
+			"url":"src/assets/images/88.jpg",
+			"title":"睡袍"
+		},
+		{
+			"ID":9,
+			"url":"src/assets/images/89.jpg",
+			"title":"箱包"
+		},
+		{
+			"ID":10,
+			"url":"src/assets/images/90.jpg",
+			"title":"钱包"
+		},
+		{
+			"ID":11,
+			"url":"src/assets/images/91.jpg",
+			"title":"拖鞋"
+		}
+	],
+	"child":[
+		{
+			"ID":1,
+			"url":"src/assets/images/92.jpg",
+			"title":"卫衣"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/93.jpg",
+			"title":"男童"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/94.jpg",
+			"title":"女童"
+		},
+		{
+			"ID":4,
+			"url":"src/assets/images/95.jpg",
+			"title":"皮肤衣"
+		}
+	],
+	"shirts":[
+		{
+			"ID":1,
+			"url":"src/assets/images/96.jpg",
+			"title":"秋衣"
+		},
+		{
+			"ID":2,
+			"url":"src/assets/images/97.jpg",
+			"title":"打底裤"
+		},
+		{
+			"ID":3,
+			"url":"src/assets/images/98.jpg",
+			"title":"内衣"
+		}
+	]
+}

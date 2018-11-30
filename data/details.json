@@ -1,0 +1,30 @@
+{
+	"jack":[
+		{
+			"id":1,
+			"banner1":"src/assets/images/190.jpg",
+			"banner2":"src/assets/images/191.jpg",
+			"banner3":"src/assets/images/192.jpg",
+			"desc":"凡客衬衫 吉国武免烫 领尖扣 4.0 蓝色",
+			"originPrice":"598元",
+			"presentPrice":"398元",
+			"color1":"天蓝色",
+			"color1":"白色",
+			"color1":"天蓝色",
+			"img1":"src/assets/images/193.jp",
+			"img2":"src/assets/images/194.jp",
+			"img3":"src/assets/images/195.jp",
+			"img4":"src/assets/images/196.jp",
+			"img5":"src/assets/images/197.jp",
+			"img6":"src/assets/images/35.jp",
+			"img7":"src/assets/images/36.jp",
+			"img8":"src/assets/images/37.jp",
+			"img9":"src/assets/images/38.jp",
+			"img10":"src/assets/images/39.jp",
+			"img11":"src/assets/images/40.jp",
+			"img12":"src/assets/images/41.jp"
+			
+			
+		}
+	]
+}
