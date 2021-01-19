@@ -41,31 +41,31 @@
 					<li>
 						<router-link to='/g'>
 							<p class='h-p'><img src="../../assets/images/2018_1_10_15_53_37_1188_55x60.jpg"/></p>
-							<p>新品</p>
+							<p>新品测试</p>
 						</router-link>
 					</li>
 					<li>
 						<router-link to='/g'>
 							<p class='h-p'><img src="../../assets/images/2018_1_10_15_53_37_9203_59x56.jpg"/></p>
-							<p>频道</p>
+							<p>频道测试</p>
 						</router-link>
 					</li>
 					<li>
 						<router-link to='/g'>
 							<p class='h-p'><img src="../../assets/images/2018_7_26_14_37_13_4000_59x56.jpg"/></p>
-							<p>衬衫</p>
+							<p>衬衫测试</p>
 						</router-link>
 					</li>
 					<li>
 						<router-link to='/g'>
 							<p class='h-p'><img src="../../assets/images/2018_8_24_11_37_23_9993_59x59.jpg"/></p>
-							<p>帆布鞋</p>						
+							<p>帆布鞋测试</p>						
 						</router-link>
 					</li>
 					<li>
 						<router-link to='/g'>
 							<p class='h-p'><img src="../../assets/images/2018_8_31_16_38_7_8073_59x59.jpg"/></p>
-							<p>V团</p>
+							<p>V团测试</p>
 						</router-link>
 					</li>
 				</ul>

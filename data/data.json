@@ -105,25 +105,25 @@
 		{
 			"id":1,
 			"img":"src/assets/images/203.jpg",
-			"desc":"凡客80免烫衬衫 白色",
+			"desc":"凡客80免烫衬衫 白色测试",
 			"price":"￥338"
 		},
 		{
 			"id":2,
 			"img":"src/assets/images/204.jpg",
-			"desc":"凡客80免烫衬衫 蓝色",
+			"desc":"凡客80免烫衬衫 蓝色测试",
 			"price":"￥338"
 		},
 		{
 			"id":3,
 			"img":"src/assets/images/205.jpg",
-			"desc":"凡客80免烫衬衫 小方领 灰色",
+			"desc":"凡客80免烫衬衫 小方领 灰色测试",
 			"price":"￥338"
 		},
 		{
 			"id":4,
 			"img":"src/assets/images/206.jpg",
-			"desc":"凡客80免烫衬衫 小方领 紫色",
+			"desc":"凡客80免烫衬衫 小方领 紫色测试",
 			"price":"￥338"
 		},
 		{

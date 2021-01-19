@@ -2,7 +2,7 @@
 	<div>
 	<div class='c-header' slot='title'>
 		<span class='back' @click='back()'><</span>
-		<span>频道</span>
+		<span>测试测试频道</span>
 	</div>
 	<div>
 		<div >

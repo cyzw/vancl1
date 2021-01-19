@@ -9,9 +9,9 @@
 				<router-link to='/#' class='m-member'></router-link>
 			</div>
 			<ul class='m-bottom'>
-				<li>积分:</li>
-				<li>余额:</li>
-				<li>成长值:</li>
+				<li>积分测试:</li>
+				<li>测试余额:</li>
+				<li>测试成长值:</li>
 			</ul>
 		</div>
 		<div class='m-content'>
